@@ -1,0 +1,27 @@
+nav{
+    background-color: aqua;
+    border-radius: 20px;
+}
+nav a{
+    text-decoration: none;
+}
+img {
+    width:100px;
+    height: 80px;
+    background-color: yellowgreen;
+}
+footer {
+    background-color: yellowgreen;
+    border-radius: 35px;
+    text-align: center;
+    margin: 60px;
+}
+header {
+    text-align: center;
+}
+main p{
+    font-size: 20px;
+}
+header h2{
+    color:grey;
+}
